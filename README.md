@@ -1,4 +1,4 @@
-# Phase 1: Live Financial Streamer
+# Live Financial Streamer
 
 CLI app that watches public tech stocks, polls SEC Edgar for new filings (10-K, 10-Q, 8-K), downloads the raw documents concurrently and flattens them into a clean csv table.
 
